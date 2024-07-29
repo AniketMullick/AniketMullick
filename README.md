@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @AniketMullick
-- 👀 I’m interested in programming, working out and listening to music.
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact:
+- 👀 I’m interested in programming, working out and playing guitar.
+- 🌱 I’m currently learning DSA and Web Dev.
+- 😄 Gender: Male
 
 <!---
 AniketMullick/AniketMullick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
